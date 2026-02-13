@@ -17,8 +17,8 @@ body {
 }
 
 h1 {
-    font-family: 'Dancing Script', cursive; /* Tên font bạn vừa dán link */
-    font-size: 3.5rem; /* Có thể chỉnh to lên cho đẹp */
+    font-family: 'Dancing Script', cursive;
+    font-size: 3.5rem; 
     color: #d32f2f;
 }
 
@@ -63,3 +63,4 @@ button {
     display: none;
 
 }
+

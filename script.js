@@ -40,3 +40,4 @@ yesBtn.addEventListener('click', () => {
     questionSection.classList.add('hidden');
     successSection.classList.remove('hidden');
 });
+

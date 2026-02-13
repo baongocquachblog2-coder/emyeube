@@ -34,10 +34,11 @@ noBtn.addEventListener('click', () => {
 
 yesBtn.addEventListener('click', () => {
     // Đổi sang ảnh gấu hôn nhau
-    document.getElementById('main-gif').src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1ZHZ1bnR5bm0xeXF4eXF4eXF4eXF4eXF4eXF4eXF4eXF4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1z/v6AFrdfYI4kKzW6L7q/giphy.gif";
+    document.getElementById('main-gif').src = "https://media.tenor.com/lTjoVFNdiLkAAAAC/kisses.gif";
     
     // Hiện thông điệp hạnh phúc
     questionSection.classList.add('hidden');
     successSection.classList.remove('hidden');
 });
+
 

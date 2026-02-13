@@ -55,12 +55,17 @@ button {
 }
 
 .success-text {
-    color: #b71c1c;
-    font-family: 'Comic Sans MS', cursive;
+    font-family: 'Dancing Script', cursive; /* Font chữ uốn lượn */
+    font-size: 3rem;                        /* Kích thước chữ */
+    color: #e91e63;                         /* Màu hồng lãng mạn */
+    margin-top: 20px;
+    /* Thêm hiệu ứng bóng đổ cho chữ thêm lung linh */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); 
 }
 
 .hidden {
     display: none;
 
 }
+
 
